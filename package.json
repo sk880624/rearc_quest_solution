@@ -1,0 +1,18 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.05.15 21:26:49 =~=~=~=~=~=~=~=~=~=~=~=
+cat package.json
+{
+  "name": "root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
+[root@ip-172-31-15-18 terraform_rearc_project]# 

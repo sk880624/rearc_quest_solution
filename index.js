@@ -10,7 +10,7 @@ const HOST = '0.0.0.0';
 const app = express();
 app.get('/', (req, res) => {
   const MSG = process.env.SECRET_WORD
-  res.send(`Hello to all --> ${MSG}`);
+  res.send(`Hello to all from --> ${MSG}`);
 });
 
 app.listen(PORT, HOST);
